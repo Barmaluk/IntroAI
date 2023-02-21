@@ -1,2 +1,2 @@
 # IntroAI
-A*, neural networks, reinforcement learning, and more.
+Projects for the Intro to AI course at Georgia Tech, spring 2022.
